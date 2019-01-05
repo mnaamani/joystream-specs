@@ -1,0 +1,2 @@
+# joystream-specs
+Joystream Specifications
